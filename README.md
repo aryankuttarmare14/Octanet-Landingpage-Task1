@@ -1,2 +1,2 @@
 # Landing Page
-#Using HTML and CSS
+Using HTML and CSS
